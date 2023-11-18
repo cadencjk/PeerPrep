@@ -1,9 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6BOvYMwN)
-
-> [!IMPORTANT]
-> Do _not_ test while on NUS grounds or connected
-> (either directly or indirectly) to NUS Wifi.\
-> (NUS networks blocks MongoDB Atlas which is required by our application.)
+[![PeerPrep](https://github.com/cadencjk/PeerPrep/assets/63772723/bd4f7cd3-dec6-4fe8-8b40-3b21e4673ce1)](https://www.youtube.com/watch?v=uMWTDqz8u5Q&ab_channel=CadenCheong)
 
 # PeerPrep
 
